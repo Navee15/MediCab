@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "14502149220",
+    "firebase_url": "https://medicab-driver-app-default-rtdb.firebaseio.com",
+    "project_id": "medicab-driver-app",
+    "storage_bucket": "medicab-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14502149220:android:b79a61b7ff5755d1a5f371",
+        "android_client_info": {
+          "package_name": "com.medicab.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRz021GHuiPDOwIRBdRrCkz1OD6n1nx0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
